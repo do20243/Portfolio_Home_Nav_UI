@@ -39,7 +39,7 @@ body {
     animation: slideRight 1s ease forwards;
 }
 
-.navbar a {
+ a {
     display: inline-block;
     font-size: 18px;
     color: #fff;
@@ -52,8 +52,8 @@ body {
     animation-delay: calc(.2s * var(--i));
 }
 
-.navbar a:hover,
-.navbar a.active {
+ a:hover,
+ a.active {
     color: #0ef;
 }
 
@@ -833,7 +833,8 @@ body {
 
 @media (max-width: 768px) {
     .navbar {
-        display: none; /* Hide for true mobile/hamburger menu implementation */
+        /* display: none; */
+        /* Hide for true mobile/hamburger menu implementation */
     }
     .home-content h1 {
         font-size: 40px;
