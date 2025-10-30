@@ -2,5 +2,5 @@
 
 Demo site : https://portfolio-home-nav-ui.vercel.app/
 
-<img src="images/portfolio_UI.png" alt="Demo Image">
+<img src="images/demo_UI.png" alt="Demo Image">
 
